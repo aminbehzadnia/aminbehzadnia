@@ -14,7 +14,7 @@ Currently working as a **Data Analyst at PANTOhealth** in Berlin. 🇩🇪
 
 The projects I'm most proud of:
 
-- **[EEG Classification with Machine Learning](https://github.com/aminbehzadnia/EEG-Classification-ML)** — My MSc Data Analytics dissertation. An end-to-end pipeline that predicts eye state (open/closed) from EEG signals using feature engineering (alpha/beta/theta bands, entropy) and classical ML (Random Forest, SVM, KNN). *Python · MNE · scikit-learn*
+- **[EEG Classification with Machine Learning](https://github.com/aminbehzadnia/EEG-Classification-ML)** — My MSc Data Analytics dissertation. Classifying eye state (open/closed) from resting-state EEG with band-power and entropy features and classical ML (Random Forest, SVM, KNN), including an honest analysis of why the models stayed near chance on a small sample. *Python · scikit-learn*
 
 - **[EEG Brain Signal Analysis During Sustained Attention](https://github.com/aminbehzadnia/EEG-Attention-Analysis-MSc-Thesis)** — My MSc Electronic Engineering thesis. EEG study on 20 participants linking brainwave power (alpha, beta, delta) to sustained-attention performance, with a full MATLAB signal-processing pipeline (filtering, ERP components, P300). *MATLAB · EEGLAB · SPSS*
 
